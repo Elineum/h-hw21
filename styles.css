@@ -1,0 +1,17 @@
+.buttons-wrap {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  min-height: 97vh;
+  flex-wrap: wrap;
+}
+
+button {
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.shadow {
+  box-shadow: 0px 0px 3px black;
+}
